@@ -4,3 +4,6 @@ plugins:
 
 title: INCOS Environment
 description: INcremental COrrect-by-design Specification of variant-rich systems
+
+show_downloads: true
+google_analytics:
