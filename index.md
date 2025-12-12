@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Welcome to the website of the INCOS specification environment!
 
 INCOS is an environment for "INcremental COrrect-by-design Specification of variant-rich systems".
